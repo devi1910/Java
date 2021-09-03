@@ -1,0 +1,11 @@
+{
+   public static void main(String[] args)
+   {
+     int b = 6;
+     System.out.println(b);
+     double price = 43.25;
+     System.out.println(price);
+     boolean a = true;
+     System.out.println(a);
+   }
+}
